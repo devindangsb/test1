@@ -1,3 +1,3 @@
 ﻿function doodoo(){
-  Log.Message("ahh");
+  Log.Message("sdfsfs");
 } 
